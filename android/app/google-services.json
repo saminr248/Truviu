@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "343421200668",
+    "project_id": "truviu-bvp",
+    "storage_bucket": "truviu-bvp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:343421200668:android:1615b6a13f6da2617b72d9",
+        "android_client_info": {
+          "package_name": "com.example.truviu_bvp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "343421200668-r60jhmats98i7g04svrtb0sptbia9eqb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD-hzPjcBQ2XsPm4xXkuRUAuKEewVkVS3U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "343421200668-r60jhmats98i7g04svrtb0sptbia9eqb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
